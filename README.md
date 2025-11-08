@@ -71,7 +71,7 @@ To get this project up and running, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone git@github.com:JesutoniAderibigbe/smart-traveller-frontnd-starterkit.git
     cd smart_travller_frontend_starter
     ```
 
